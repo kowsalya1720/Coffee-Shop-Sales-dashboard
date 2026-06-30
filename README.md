@@ -1,4 +1,4 @@
-<img width="1373" height="732" alt="Screenshot 2026-05-11 130823" src="https://github.com/user-attachments/assets/6f549108-e0ae-4812-a72a-fe70503b425f" /><img width="1338" height="726" alt="Screenshot 2026-05-11 130611" src="https://github.com/user-attachments/assets/118b1f8c-c6b1-44bd-a80c-735584d24834" />#☕ Coffee Shop Sales & Revenue Analysis Using Power BI
+#☕ Coffee Shop Sales & Revenue Analysis Using Power BI
 
 ##📌 Objective
 
