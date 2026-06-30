@@ -1,4 +1,4 @@
-#☕ Coffee Shop Sales & Revenue Analysis Using Power BI
+<img width="1373" height="732" alt="Screenshot 2026-05-11 130823" src="https://github.com/user-attachments/assets/6f549108-e0ae-4812-a72a-fe70503b425f" /><img width="1338" height="726" alt="Screenshot 2026-05-11 130611" src="https://github.com/user-attachments/assets/118b1f8c-c6b1-44bd-a80c-735584d24834" />#☕ Coffee Shop Sales & Revenue Analysis Using Power BI
 
 ##📌 Objective
 
@@ -74,3 +74,11 @@ Identify best- and worst-performing products.
 Make data-driven decisions on inventory, pricing, and promotions.
 
 Monitor regional or store-level performance easily.
+
+<img width="1338" height="726" alt="Screenshot 2026-05-11 130611" src="https://github.com/user-attachments/assets/012c32e1-173a-41bd-aca7-04c410c65415" />
+<img width="1375" height="735" alt="Screenshot 2026-05-11 130749" src="https://github.com/user-attachments/assets/510be912-761d-4f28-b1ad-f405b991cab2" />
+<img width="1373" height="732" alt="Screenshot 2026-05-11 130823" src="https://github.com/user-attachments/assets/ea65f3f1-05f3-4944-b017-7891a5cb84bd" />
+
+
+
+
